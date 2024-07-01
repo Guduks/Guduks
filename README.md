@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Guduks
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning Javascript. Welcome to my journey in programming
